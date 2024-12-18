@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Dec 17 21:51:01 BRST 2024
+e2eaf0031e9bc24c37c9b183448f5dccc16bb156@default-bsp.releases.repo-http\://artifact.dsv.bradseg.com.br/artifact/repository/releases/.lastUpdated=1734479460622
+http\://artifact.dsv.bradseg.com.br/artifact/repository/internal-releases/.error=Could not transfer artifact org.springframework.boot\:spring-boot-starter-parent\:pom\:3.3.1 from/to bsp.internal.releases.repo (http\://artifact.dsv.bradseg.com.br/artifact/repository/internal-releases)\: Connect to artifact.dsv.bradseg.com.br\:80 [artifact.dsv.bradseg.com.br/10.205.105.118] failed\: Connection timed out\: connect
+http\://artifact.dsv.bradseg.com.br/artifact/repository/releases/.error=Could not transfer artifact org.springframework.boot\:spring-boot-starter-parent\:pom\:3.3.1 from/to bsp.releases.repo (http\://artifact.dsv.bradseg.com.br/artifact/repository/releases)\: Connect to artifact.dsv.bradseg.com.br\:80 [artifact.dsv.bradseg.com.br/10.205.105.118] failed\: Connection timed out\: connect
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1734479461029
+e2eaf0031e9bc24c37c9b183448f5dccc16bb156@default-bsp.internal.releases.repo-http\://artifact.dsv.bradseg.com.br/artifact/repository/internal-releases/.lastUpdated=1734479439515
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework.boot\:spring-boot-starter-parent\:pom\:3.3.1 from/to central (https\://repo.maven.apache.org/maven2)\: Received fatal alert\: protocol_version
